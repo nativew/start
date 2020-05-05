@@ -1,0 +1,18 @@
+{
+	"name": "start",
+	"version": "1.0.0",
+	"description": "🧨 Starter boilerplate for Native Web.",
+	"repository": "nativew/start",
+	"author": "Native Web (https://github.com/nativew)",
+	"license": "ISC",
+	"dependencies": {
+		"nativeweb": "*"
+	},
+	"devDependencies": {
+		"@nativeweb/build": "^*"
+	},
+	"scripts": {
+		"build": "rollup -c",
+		"start": "rollup -c -w"
+	}
+}
