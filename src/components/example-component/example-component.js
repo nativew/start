@@ -9,7 +9,7 @@ export class ExampleComponent extends Element {
 
 	render() {
 		return `
-			<h1>Start 🧨</h1>
+			<h1>🤳 Native Web</h1>
 		`;
 	}
 }

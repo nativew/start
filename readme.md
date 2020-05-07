@@ -20,7 +20,7 @@ npm start
 ```
 
 ## 🤝 License 
-[ISC](https://github.com/nativew/build/blob/master/license)
+[ISC](https://github.com/nativew/start/blob/master/license)
 
 <p>
 <br>
