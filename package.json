@@ -5,14 +5,14 @@
 	"repository": "nativew/start",
 	"author": "Native Web (https://github.com/nativew)",
 	"license": "ISC",
+	"scripts": {
+		"build": "rollup -c",
+		"start": "rollup -c -w"
+	},
 	"dependencies": {
 		"nativeweb": "*"
 	},
 	"devDependencies": {
-		"@nativeweb/build": "^*"
-	},
-	"scripts": {
-		"build": "rollup -c",
-		"start": "rollup -c -w"
+		"@nativeweb/build": "*"
 	}
 }
