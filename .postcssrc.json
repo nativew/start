@@ -1,0 +1,6 @@
+{
+	// Customize PostCSS options here.
+	"plugins": {
+		// Default plugins won't be overridden.
+	}
+}

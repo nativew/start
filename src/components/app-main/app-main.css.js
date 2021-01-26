@@ -1,4 +1,4 @@
-import { css } from 'nativeweb';
+import { css } from "nativeweb";
 
 const styles = css`
 	:host {

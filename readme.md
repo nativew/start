@@ -1,30 +1,59 @@
 # Start 🧨
-Starter boilerplate for [Native Web].
 
-🚧 **Work in progress**
+Starter boilerplate for [Native Web](https://github.com/nativew/nativeweb).
 
-## ✨ Features
-- **🤳 [Native Web]**. Simple & tiny web components library for building fast websites.
-- **🧱 [Build]**. Rollup configuration to serve, reload, bundle and minify.
+<br>
 
-[Native Web]: https://github.com/nativew/nativeweb
-[Build]: https://github.com/nativew/build
+### Quick start
 
-## 🏄‍♂️ Use
+### Simple boilerplate
+
+### Web Components
+
+### Fast builds
+
+### Easily configurable
+
+<br>
+
+### One command to start
+
 ```zsh
-# Create a new project
 npm init nativeweb
-
-# And run it 👟
-npm start
 ```
 
-## 🤝 License 
-[ISC](https://github.com/nativew/start/blob/master/license)
-
-<p>
 <br>
-    <a href="https://github.com/nativew/nativeweb">
-        <img src="https://raw.githubusercontent.com/nativew/nativeweb/53d4fe591d5992c81b3faeb656fd1aea7aabb413/logo-square.svg?sanitize=true" alt="Native Web" width="50px">
-    </a>
-</p>
+
+### Two options to use
+
+```zsh
+npm start  # Start a development server with live reload, source maps and next-gen CSS & JS.
+
+npm run build  # Build for production with a fast, optimized output powered by esbuild.
+```
+
+<br>
+
+### Includes
+
+[Native Web 🤳](https://github.com/nativew/nativeweb) &nbsp; → &nbsp; Tiny library for simple web components.
+
+[Build 🧱](https://github.com/nativew/build) &nbsp; → &nbsp; Instantly serve, reload, bundle, optimize and compile.
+
+<br>
+
+### Details
+
+[esbuild](https://github.com/evanw/esbuild) &nbsp; → &nbsp; Extremely fast bundler and minifier.
+
+[PostCSS](https://github.com/postcss/postcss) &nbsp; → &nbsp; Transforms styles to the latest CSS specification.
+
+[Babel](https://github.com/babel/babel) &nbsp; → &nbsp; Transforms scripts to the latest JS specification.
+
+<br><br>
+
+<a href="https://github.com/nativew/nativeweb">
+    <img src="https://raw.githubusercontent.com/nativew/nativeweb/1e9405c629e3a6491bb59df726044eb3823967bb/logo-square_nativeweb.svg" alt="Native Web" width="80px">
+</a>
+
+<br>

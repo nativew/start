@@ -1,17 +1,11 @@
-import { Element } from 'nativeweb';
+import { component, Element } from "nativeweb";
+import styles from ".";
 
-import styles from './example-component.css.js';
-
+@component("example-component", styles)
 export class ExampleComponent extends Element {
-	constructor() {
-		super(styles);
-	}
-
 	render() {
 		return `
 			<h1>🤳 Native Web</h1>
-		`;
+        `;
 	}
 }
-
-customElements.define('example-component', ExampleComponent);
