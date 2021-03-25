@@ -1,9 +1,9 @@
 import { component, Element } from "nativeweb";
-import { ExampleComponent } from "../example-component";
+import "../example-component";
 import styles from ".";
 
 @component("app-main", styles)
-export class AppMain extends Element {
+class Component extends Element {
 	render() {
 		return `
 			<example-component></example-component>

@@ -14,6 +14,6 @@
 		"nativeweb": "^1.0.0"
 	},
 	"devDependencies": {
-		"@nativeweb/build": "^1.1.0"
+		"@nativeweb/build": "^1.3.1"
 	}
 }

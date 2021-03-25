@@ -1,2 +1,2 @@
-export { default } from "./app-main.css.js";
-export * from "./app-main.js";
+export { default } from "./app-main.css";
+export * from "./app-main";

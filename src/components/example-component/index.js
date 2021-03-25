@@ -1,2 +1,2 @@
-export { default } from "./example-component.css.js";
-export * from "./example-component.js";
+export { default } from "./example-component.css";
+export * from "./example-component";

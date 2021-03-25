@@ -1,1 +1,1 @@
-import { AppMain } from "./components/app-main";
+import "./components/app-main";
