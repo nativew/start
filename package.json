@@ -11,7 +11,7 @@
 		"build": "node build.config.js"
 	},
 	"dependencies": {
-		"nativeweb": "^1.0.0"
+		"nativeweb": "^2.0.0"
 	},
 	"devDependencies": {
 		"@nativeweb/build": "^1.3.1"
