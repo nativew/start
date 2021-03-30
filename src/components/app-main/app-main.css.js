@@ -1,10 +1,8 @@
 import { css } from "nativeweb";
 
-const styles = css`
+export default css`
 	:host {
 		display: block;
 		font-family: sans-serif;
 	}
 `;
-
-export default styles;

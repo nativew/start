@@ -1,8 +1,6 @@
 import { css } from "nativeweb";
 
-const styles = css`
+export default css`
 	:host {
 	}
 `;
-
-export default styles;
